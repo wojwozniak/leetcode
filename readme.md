@@ -15,4 +15,5 @@ Repository containing my solutions to Leetcode problems. Most of the solutions a
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Solution (C)](./Solutions/7-reverse-integer.c)|Easy||
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[Solution (C++)](./Solutions/8-string-to-integer-atoi.cpp)|Medium||
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Solution (Javascript)](./Solutions/9-palindrome-number.js)|Easy||
+|12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Solution (Javascript)](./Solutions/12-integer-to-roman.js)|Medium||
 |79|[Word Search](https://leetcode.com/problems/word-search/)|[Solution (Javascript)](./Solutions/79-word-search.js)|Medium|`DFS` `Backtracking`|
