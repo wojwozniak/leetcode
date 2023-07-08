@@ -12,4 +12,6 @@ Repository containing my solutions to Leetcode problems. Most of the solutions a
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[Solution (Javascript)](./Solutions/5-longest-palindromic-substring.js)|Medium|`Dynamic Programming`|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[Solution (Javascript)](./Solutions/6-zigzag-conversion.js)|Medium||
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Solution (C)](./Solutions/7-reverse-integer.c)|Easy||
+|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[Solution (C++)](./Solutions/8-string-to-integer-atoi.cpp)|Medium||
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Solution (Javascript)](./Solutions/9-palindrome-number.js)|Easy||
 |79|[Word Search](https://leetcode.com/problems/word-search/)|[Solution (Javascript)](./Solutions/79-word-search.js)|Medium|`DFS` `Backtracking`|
