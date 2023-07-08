@@ -26,4 +26,6 @@ Repository containing my solutions to Leetcode problems. Most of the solutions a
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Solution (Javascript)](./Solutions/35-search-insert-position.js)|Easy||
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Solution (Javascript)](./Solutions/50-powx-n.js)|Medium||
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)|[Solution (Javascript)](./Solutions/51-n-queens.js)|Hard|`Backtracking`|
+|67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Solution (Javascript)](./Solutions/67-add-binary.js)|Easy||
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Solution (Javascript)](./Solutions/69-sqrtx.js)|Easy||
 |79|[Word Search](https://leetcode.com/problems/word-search/)|[Solution (Javascript)](./Solutions/79-word-search.js)|Medium|`DFS` `Backtracking`|
