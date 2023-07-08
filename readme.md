@@ -2,10 +2,11 @@
 
 Repository containing my solutions to Leetcode problems. Most of the solutions are in Javascript, some use C/C++. Only the solutions with the most optimal time complexity are included.
 
-## Problem List
+## Problem List (only solved problems)
 
 | # | Title | Solution | Difficulty | Tags |
 |---| ----- | -------- | ---------- | ---- |
+|1|[Two Sum](https://leetcode.com/problems/two-sum/)|[Solution (Javascript)](./Solutions/1-two-sum.js)|Easy|`Hash Table`|
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)|[Solution (C)](./Solutions/2-add-two-numbers.c)|Medium|`Linked List`|
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[Solution (C++)](./Solutions/3-longest-substring-without-repeating-characters.cpp)|Medium|`Sliding Window`|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[Solution (Javascript)](./Solutions/4-median-of-two-sorted-arrays)|Hard|`Binary Search`|
