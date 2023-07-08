@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Repository containing my solutions to Leetcode problems. Most of the solutions are in Javascript, some use C/C++.
+Repository containing my solutions to Leetcode problems. Most of the solutions are in Javascript, some use C/C++. Only the solutions with the most optimal time complexity are included.
 
 ## Problem List
 
