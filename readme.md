@@ -18,4 +18,9 @@ Repository containing my solutions to Leetcode problems. Most of the solutions a
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Solution (Javascript)](./Solutions/12-integer-to-roman.js)|Medium||
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Solution (Javascript)](./Solutions/13-roman-to-integer.js)|Easy||
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Solution (Javascript)](./Solutions/14-longest-common-prefix.js)|Easy||
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Solution (Javascript)](./Solutions/17-letter-combinations-of-a-phone-number.js)|Medium|`backtracking`|
+|20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Solution (Javascript)](./Solutions/20-valid-parentheses.js)|Easy|`Stack`|
+|26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Solution (Javascript)](./Solutions/26-remove-duplicates-from-sorted-array.js)|Easy||
+|27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Solution (Javascript)](./Solutions/27-remove-element.js)|Easy||
+|28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Solution (Javascript)](./Solutions/28-implement-strstr.js)|Easy||
 |79|[Word Search](https://leetcode.com/problems/word-search/)|[Solution (Javascript)](./Solutions/79-word-search.js)|Medium|`DFS` `Backtracking`|
