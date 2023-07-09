@@ -35,5 +35,6 @@ Repository containing my solutions to Leetcode problems. Most of the solutions a
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Solution (Javascript)](./Solutions/217-contains-duplicate.js)|Easy|`Hash Table`|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Solution (Javascript)](./Solutions/242-valid-anagram.js)|Easy|`Hash Table`|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Solution (Javascript)](./Solutions/278-first-bad-version.js)|Easy|`Binary search`|
+|347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution (Javascript)](./Solutions/347-top-k-frequent-elements.js)|Medium|`Hash Table` `"Bucket sort"`|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Solution (Javascript)](./Solutions/461-hamming-distance.js)|Easy|`Binary operators`|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Solution (Javascript)](./Solutions/485-max-consecutive-ones.js)|Easy|`Array`|
