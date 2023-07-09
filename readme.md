@@ -18,7 +18,7 @@ Repository containing my solutions to Leetcode problems. Most of the solutions a
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Solution (Javascript)](./Solutions/12-integer-to-roman.js)|Medium||
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Solution (Javascript)](./Solutions/13-roman-to-integer.js)|Easy||
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Solution (Javascript)](./Solutions/14-longest-common-prefix.js)|Easy||
-|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Solution (Javascript)](./Solutions/17-letter-combinations-of-a-phone-number.js)|Medium|`backtracking`|
+|17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Solution (Javascript)](./Solutions/17-letter-combinations-of-a-phone-number.js)|Medium|`Backtracking`|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Solution (Javascript)](./Solutions/20-valid-parentheses.js)|Easy|`Stack`|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Solution (Javascript)](./Solutions/26-remove-duplicates-from-sorted-array.js)|Easy||
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Solution (Javascript)](./Solutions/27-remove-element.js)|Easy||
@@ -31,6 +31,7 @@ Repository containing my solutions to Leetcode problems. Most of the solutions a
 |79|[Word Search](https://leetcode.com/problems/word-search/)|[Solution (Javascript)](./Solutions/79-word-search.js)|Medium|`DFS` `Backtracking`|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Solution (C)](./Solutions/104-maximum-depth-of-binary-tree.c)|Easy|`Binary tree`|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Solution (C)](./Solutions/203-remove-linked-list-elements.c)|Easy|`Linked list`|
+|217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Solution (Javascript)](./Solutions/217-contains-duplicate.js)|Easy|`Hash Table`|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Solution (Javascript)](./Solutions/278-first-bad-version.js)|Easy|`Binary search`|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Solution (Javascript)](./Solutions/461-hamming-distance.js)|Easy|`Binary operators`|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Solution (Javascript)](./Solutions/485-max-consecutive-ones.js)|Easy|`Array`|
