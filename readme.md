@@ -33,6 +33,7 @@ Repository containing my solutions to Leetcode problems. Most of the solutions a
 |79|[Word Search](https://leetcode.com/problems/word-search/)|[Solution (Javascript)](./Solutions/79-word-search.js)|Medium|`DFS` `Backtracking`|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Solution (C)](./Solutions/104-maximum-depth-of-binary-tree.c)|Easy|`Binary tree`|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Solution (Javascript)](./Solutions/128-longest-consecutive-sequence.js)|Hard|`Array` `Hash Table`|
+|155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Solution (Javascript)](./Solutions/155-min-stack.js)|Medium|`Stack`|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Solution (C)](./Solutions/203-remove-linked-list-elements.c)|Easy|`Linked list`|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Solution (Javascript)](./Solutions/217-contains-duplicate.js)|Easy|`Hash Table`|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Solution (Javascript)](./Solutions/238-product-except-self.js)|Medium|`Array`|
