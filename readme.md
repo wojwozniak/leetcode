@@ -20,11 +20,12 @@ Repository containing my solutions to Leetcode problems. Most of the solutions a
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Solution (Javascript)](./Solutions/14-longest-common-prefix.js)|Easy||
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Solution (Javascript)](./Solutions/17-letter-combinations-of-a-phone-number.js)|Medium|`Backtracking`|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Solution (Javascript)](./Solutions/20-valid-parentheses.js)|Easy|`Stack`|
+|22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Solution (Javascript)](./Solutions/22-generate-parentheses.js)|Medium|`Backtracking` `Stack`|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Solution (Javascript)](./Solutions/26-remove-duplicates-from-sorted-array.js)|Easy||
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Solution (Javascript)](./Solutions/27-remove-element.js)|Easy||
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Solution (Javascript)](./Solutions/28-implement-strstr.js)|Easy||
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Solution (Javascript)](./Solutions/35-search-insert-position.js)|Easy||
-|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Solution (Javascript)](./Solutions/36-valid-sudoku.js)|Medium|`Hash table`|
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Solution (Javascript)](./Solutions/36-valid-sudoku.js)|Medium|`Hash Table`|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution (Javascript)](./Solutions/49-group-anagrams.js)|Medium|`Hash Table`|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Solution (Javascript)](./Solutions/50-powx-n.js)|Medium||
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)|[Solution (Javascript)](./Solutions/51-n-queens.js)|Hard|`Backtracking`|
