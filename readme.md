@@ -24,6 +24,7 @@ Repository containing my solutions to Leetcode problems. Most of the solutions a
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Solution (Javascript)](./Solutions/27-remove-element.js)|Easy||
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Solution (Javascript)](./Solutions/28-implement-strstr.js)|Easy||
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Solution (Javascript)](./Solutions/35-search-insert-position.js)|Easy||
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution (Javascript)](./Solutions/49-group-anagrams.js)|Medium|`Hash Table`|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Solution (Javascript)](./Solutions/50-powx-n.js)|Medium||
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)|[Solution (Javascript)](./Solutions/51-n-queens.js)|Hard|`Backtracking`|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Solution (Javascript)](./Solutions/67-add-binary.js)|Easy||
