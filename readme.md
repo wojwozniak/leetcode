@@ -33,4 +33,3 @@ Repository containing my solutions to Leetcode problems. Most of the solutions a
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Solution (C)](./Solutions/203-remove-linked-list-elements.c)|Easy|`Linked list`|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Solution (Javascript)](./Solutions/278-first-bad-version.js)|Easy|`Binary search`|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Solution (Javascript)](./Solutions/461-hamming-distance.js)|Easy|`Binary operators`|
-|530|[Minimum Absolute Difference in BST](https://leetcode.com/problems/minimum-absolute-difference-in-bst/)|[Solution (C)](./Solutions/530-minimum-absolute-difference-in-bst.c)|Easy|`Binary search tree`|
