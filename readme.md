@@ -36,6 +36,7 @@ Repository containing my solutions to Leetcode problems. Most of the solutions a
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Solution (Javascript)](./Solutions/217-contains-duplicate.js)|Easy|`Hash Table`|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Solution (Javascript)](./Solutions/238-product-except-self.js)|Medium|`Array`|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Solution (Javascript)](./Solutions/242-valid-anagram.js)|Easy|`Hash Table`|
+|271|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)|[Solution (Javascript)](./Solutions/271-encode-and-decode-strings.js)|Medium|`String`|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Solution (Javascript)](./Solutions/278-first-bad-version.js)|Easy|`Binary search`|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution (Javascript)](./Solutions/347-top-k-frequent-elements.js)|Medium|`Hash Table` `"Bucket sort"`|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Solution (Javascript)](./Solutions/461-hamming-distance.js)|Easy|`Binary operators`|
