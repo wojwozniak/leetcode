@@ -15,6 +15,7 @@ Repository containing my solutions to Leetcode problems. Most of the solutions a
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Solution (C)](./Solutions/7-reverse-integer.c)|Easy||
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[Solution (C++)](./Solutions/8-string-to-integer-atoi.cpp)|Medium||
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[Solution (Javascript)](./Solutions/9-palindrome-number.js)|Easy||
+|11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[Solution (Javascript)](./Solutions/11-container-with-most-water.js)|Medium|`Two Pointers`|
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Solution (Javascript)](./Solutions/12-integer-to-roman.js)|Medium||
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Solution (Javascript)](./Solutions/13-roman-to-integer.js)|Easy||
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Solution (Javascript)](./Solutions/14-longest-common-prefix.js)|Easy||
