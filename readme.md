@@ -18,6 +18,7 @@ Repository containing my solutions to Leetcode problems. Most of the solutions a
 |12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[Solution (Javascript)](./Solutions/12-integer-to-roman.js)|Medium||
 |13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[Solution (Javascript)](./Solutions/13-roman-to-integer.js)|Easy||
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Solution (Javascript)](./Solutions/14-longest-common-prefix.js)|Easy||
+|15|[3Sum](https://leetcode.com/problems/3sum/)|[Solution (Javascript)](./Solutions/15-3sum.js)|Medium|`Two Pointers`|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Solution (Javascript)](./Solutions/17-letter-combinations-of-a-phone-number.js)|Medium|`Backtracking`|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Solution (Javascript)](./Solutions/20-valid-parentheses.js)|Easy|`Stack`|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Solution (Javascript)](./Solutions/22-generate-parentheses.js)|Medium|`Backtracking` `Stack`|
