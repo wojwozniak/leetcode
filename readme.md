@@ -28,6 +28,7 @@ Repository containing my solutions to Leetcode problems. Most of the solutions a
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Solution (Javascript)](./Solutions/28-implement-strstr.js)|Easy||
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Solution (Javascript)](./Solutions/35-search-insert-position.js)|Easy||
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Solution (Javascript)](./Solutions/36-valid-sudoku.js)|Medium|`Hash Table`|
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Solution (Javascript)](./Solutions/42-trapping-rain-water.js)|Hard|`Two Pointers` `Stack`|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution (Javascript)](./Solutions/49-group-anagrams.js)|Medium|`Hash Table`|
 |50|[Pow(x, n)](https://leetcode.com/problems/powx-n/)|[Solution (Javascript)](./Solutions/50-powx-n.js)|Medium||
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)|[Solution (Javascript)](./Solutions/51-n-queens.js)|Hard|`Backtracking`|
