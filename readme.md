@@ -50,5 +50,6 @@ Repository containing my solutions to Leetcode problems. Most of the solutions a
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution (Javascript)](./Solutions/347-top-k-frequent-elements.js)|Medium|`Hash Table` `"Bucket Sort"`|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Solution (Javascript)](./Solutions/461-hamming-distance.js)|Easy|`Binary operators`|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Solution (Javascript)](./Solutions/485-max-consecutive-ones.js)|Easy|`Array`|
+|704|[Binary search](https://leetcode.com/problems/binary-search/)|[Solution (Javascript)](./Solutions/704-binary-search.js)|Easy|`Binary search`|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Solution (Javascript)](./Solutions/739-daily-temperatures.js)|Medium|`Stack`|
 |853|[Car Fleet](https://leetcode.com/problems/car-fleet/)|[Solution (Javascript)](./Solutions/853-car-fleet.js)|Medium|`Stack`|
