@@ -34,6 +34,7 @@ Repository containing my solutions to Leetcode problems. Most of the solutions a
 |51|[N-Queens](https://leetcode.com/problems/n-queens/)|[Solution (Javascript)](./Solutions/51-n-queens.js)|Hard|`Backtracking`|
 |67|[Add Binary](https://leetcode.com/problems/add-binary/)|[Solution (Javascript)](./Solutions/67-add-binary.js)|Easy||
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Solution (Javascript)](./Solutions/69-sqrtx.js)|Easy||
+|74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Solution (Javascript)](./Solutions/74-search-a-2d-matrix.js)|Medium|`Binary search`|
 |79|[Word Search](https://leetcode.com/problems/word-search/)|[Solution (Javascript)](./Solutions/79-word-search.js)|Medium|`DFS` `Backtracking`|
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Solution (Javascript)](./Solutions/84-largest-rectangle-in-histogram.js)|Hard|`Stack`|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Solution (C)](./Solutions/104-maximum-depth-of-binary-tree.c)|Easy|`Binary tree`|
