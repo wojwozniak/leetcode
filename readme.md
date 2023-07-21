@@ -54,3 +54,4 @@ Repository containing my solutions to Leetcode problems. Most of the solutions a
 |704|[Binary search](https://leetcode.com/problems/binary-search/)|[Solution (Javascript)](./Solutions/704-binary-search.js)|Easy|`Binary search`|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Solution (Javascript)](./Solutions/739-daily-temperatures.js)|Medium|`Stack`|
 |853|[Car Fleet](https://leetcode.com/problems/car-fleet/)|[Solution (Javascript)](./Solutions/853-car-fleet.js)|Medium|`Stack`|
+|875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[Solution (Javascript)](./Solutions/875-koko-eating-bananas.js)|Medium|`Binary search`|
