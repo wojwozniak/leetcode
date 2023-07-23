@@ -26,6 +26,7 @@ Repository containing my solutions to Leetcode problems. Most of the solutions a
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Solution (Javascript)](./Solutions/26-remove-duplicates-from-sorted-array.js)|Easy||
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Solution (Javascript)](./Solutions/27-remove-element.js)|Easy||
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Solution (Javascript)](./Solutions/28-implement-strstr.js)|Easy||
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)|[Solution (Javascript)](./Solutions/33-search-in-rotated-sorted-array.js)|Medium|`Binary search`|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/)|[Solution (Javascript)](./Solutions/35-search-insert-position.js)|Easy||
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)|[Solution (Javascript)](./Solutions/36-valid-sudoku.js)|Medium|`Hash Table`|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/)|[Solution (Javascript)](./Solutions/42-trapping-rain-water.js)|Hard|`Two Pointers` `Stack`|
