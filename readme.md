@@ -45,6 +45,7 @@ Repository containing my solutions to Leetcode problems. Most of the solutions a
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Solution (Javascript)](./Solutions/155-min-stack.js)|Medium|`Stack`|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Solution (Javascript)](./Solutions/167-two-sum.js)|Medium|`Array` `Two pointers`|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Solution (C)](./Solutions/203-remove-linked-list-elements.c)|Easy|`Linked list`|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Solution (C)](./Solutions/206-reverse-linked-list.c)|Easy|`Linked list`|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Solution (Javascript)](./Solutions/217-contains-duplicate.js)|Easy|`Hash Table`|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Solution (Javascript)](./Solutions/238-product-except-self.js)|Medium|`Array`|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Solution (Javascript)](./Solutions/242-valid-anagram.js)|Easy|`Hash Table`|
