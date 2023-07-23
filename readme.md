@@ -22,6 +22,7 @@ Repository containing my solutions to Leetcode problems. Most of the solutions a
 |15|[3Sum](https://leetcode.com/problems/3sum/)|[Solution (Javascript)](./Solutions/15-3sum.js)|Medium|`Two Pointers`|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Solution (Javascript)](./Solutions/17-letter-combinations-of-a-phone-number.js)|Medium|`Backtracking`|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Solution (Javascript)](./Solutions/20-valid-parentheses.js)|Easy|`Stack`|
+|21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution (C)](./Solutions/21-merge-two-sorted-lists.c)|Easy|`Linked List`|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Solution (Javascript)](./Solutions/22-generate-parentheses.js)|Medium|`Backtracking` `Stack`|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Solution (Javascript)](./Solutions/26-remove-duplicates-from-sorted-array.js)|Easy||
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Solution (Javascript)](./Solutions/27-remove-element.js)|Easy||
