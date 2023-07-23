@@ -40,6 +40,7 @@ Repository containing my solutions to Leetcode problems. Most of the solutions a
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Solution (C)](./Solutions/104-maximum-depth-of-binary-tree.c)|Easy|`Binary tree`|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Solution (Javascript)](./Solutions/128-longest-consecutive-sequence.js)|Hard|`Array` `Hash Table`|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Solution (Javascript)](./Solutions/150-evaluate-reverse-polish-notation.js)|Medium|`Stack`|
+|153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Solution (Javascript)](./Solutions/153-find-minimum-in-rotated-sorted-array.js)|Medium|`Binary search`|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Solution (Javascript)](./Solutions/155-min-stack.js)|Medium|`Stack`|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/)|[Solution (Javascript)](./Solutions/167-two-sum.js)|Medium|`Array` `Two pointers`|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Solution (C)](./Solutions/203-remove-linked-list-elements.c)|Easy|`Linked list`|
