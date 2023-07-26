@@ -55,6 +55,7 @@ Repository containing my solutions to Leetcode problems. Most of the solutions a
 |271|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)|[Solution (Javascript)](./Solutions/271-encode-and-decode-strings.js)|Medium|`String`|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Solution (Javascript)](./Solutions/278-first-bad-version.js)|Easy|`Binary search`|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution (Javascript)](./Solutions/347-top-k-frequent-elements.js)|Medium|`Hash Table` `"Bucket Sort"`|
+|424|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[Solution (Javascript)](./Solutions/424-longest-repeating-character-replacement.js)|Medium|`Sliding window`|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Solution (Javascript)](./Solutions/461-hamming-distance.js)|Easy|`Binary operators`|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Solution (Javascript)](./Solutions/485-max-consecutive-ones.js)|Easy|`Array`|
 |704|[Binary search](https://leetcode.com/problems/binary-search/)|[Solution (Javascript)](./Solutions/704-binary-search.js)|Easy|`Binary search`|
