@@ -41,6 +41,7 @@ Repository containing my solutions to Leetcode problems. Most of the solutions a
 |79|[Word Search](https://leetcode.com/problems/word-search/)|[Solution (Javascript)](./Solutions/79-word-search.js)|Medium|`DFS` `Backtracking`|
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Solution (Javascript)](./Solutions/84-largest-rectangle-in-histogram.js)|Hard|`Stack`|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Solution (C)](./Solutions/104-maximum-depth-of-binary-tree.c)|Easy|`Binary tree`|
+|121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Solution (Javascript)](./Solutions/121-best-time-to-buy-and-sell-stock.js)|Easy|`Sliding window`|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Solution (Javascript)](./Solutions/128-longest-consecutive-sequence.js)|Hard|`Array` `Hash Table`|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Solution (Javascript)](./Solutions/150-evaluate-reverse-polish-notation.js)|Medium|`Stack`|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Solution (Javascript)](./Solutions/153-find-minimum-in-rotated-sorted-array.js)|Medium|`Binary search`|
