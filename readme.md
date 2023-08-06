@@ -21,6 +21,7 @@ Repository containing my solutions to Leetcode problems. Most of the solutions a
 |14|[Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)|[Solution (Javascript)](./Solutions/14-longest-common-prefix.js)|Easy||
 |15|[3Sum](https://leetcode.com/problems/3sum/)|[Solution (Javascript)](./Solutions/15-3sum.js)|Medium|`Two Pointers`|
 |17|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|[Solution (Javascript)](./Solutions/17-letter-combinations-of-a-phone-number.js)|Medium|`Backtracking`|
+|19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)|[Solution (C)](./Solutions/19-remove-nth-node-from-end-of-list.c)|Medium|`Linked List`|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Solution (Javascript)](./Solutions/20-valid-parentheses.js)|Easy|`Stack`|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution (C)](./Solutions/21-merge-two-sorted-lists.c)|Easy|`Linked List`|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Solution (Javascript)](./Solutions/22-generate-parentheses.js)|Medium|`Backtracking` `Stack`|
