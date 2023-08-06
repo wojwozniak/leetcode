@@ -60,4 +60,4 @@ void reorderList(struct ListNode* head) {
 
 // first we find the middle of the list
 // then we reverse the second half of the list
-// then we merge the first half of the list with the reversed second half
+// then we merge the first half of the list with the reversed second half (append head to reversed)
