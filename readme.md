@@ -41,6 +41,7 @@ Repository containing my solutions to Leetcode problems. Most of the solutions a
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Solution (Javascript)](./Solutions/74-search-a-2d-matrix.js)|Medium|`Binary search`|
 |79|[Word Search](https://leetcode.com/problems/word-search/)|[Solution (Javascript)](./Solutions/79-word-search.js)|Medium|`DFS` `Backtracking`|
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Solution (Javascript)](./Solutions/84-largest-rectangle-in-histogram.js)|Hard|`Stack`|
+|100|[Same Tree](https://leetcode.com/problems/same-tree/)|[Solution (C)](./Solutions/100-same-tree.c)|Easy|`Binary tree`|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Solution (C)](./Solutions/104-maximum-depth-of-binary-tree.c)|Easy|`Binary tree`|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Solution (Javascript)](./Solutions/121-best-time-to-buy-and-sell-stock.js)|Easy|`Sliding window`|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Solution (Javascript)](./Solutions/128-longest-consecutive-sequence.js)|Hard|`Array` `Hash Table`|
