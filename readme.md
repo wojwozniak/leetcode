@@ -55,6 +55,7 @@ Repository containing my solutions to Leetcode problems. Most of the solutions a
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Solution (C)](./Solutions/203-remove-linked-list-elements.c)|Easy|`Linked list`|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Solution (C)](./Solutions/206-reverse-linked-list.c)|Easy|`Linked list`|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Solution (Javascript)](./Solutions/217-contains-duplicate.js)|Easy|`Hash Table`|
+|226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Solution (C)](./Solutions/226-invert-binary-tree.c)|Easy|`Binary tree`|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Solution (Javascript)](./Solutions/238-product-except-self.js)|Medium|`Array`|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Solution (Javascript)](./Solutions/242-valid-anagram.js)|Easy|`Hash Table`|
 |271|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)|[Solution (Javascript)](./Solutions/271-encode-and-decode-strings.js)|Medium|`String`|
