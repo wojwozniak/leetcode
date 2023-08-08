@@ -60,6 +60,7 @@ Repository containing my solutions to Leetcode problems. ~ 3/4 of solutions use 
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Solution (Javascript)](./Solutions/242-valid-anagram.js)|Easy|`Hash Table`|
 |271|[Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/)|[Solution (Javascript)](./Solutions/271-encode-and-decode-strings.js)|Medium|`String`|
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/)|[Solution (Javascript)](./Solutions/278-first-bad-version.js)|Easy|`Binary search`|
+|287|[Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)|[Solution (C)](./Solutions/287-find-the-duplicate-number.c)|Medium|`Linked list`|
 |347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)|[Solution (Javascript)](./Solutions/347-top-k-frequent-elements.js)|Medium|`Hash Table` `"Bucket Sort"`|
 |424|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[Solution (Javascript)](./Solutions/424-longest-repeating-character-replacement.js)|Medium|`Sliding window`|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Solution (Javascript)](./Solutions/461-hamming-distance.js)|Easy|`Binary operators`|
