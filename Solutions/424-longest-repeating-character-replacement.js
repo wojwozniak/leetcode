@@ -1,17 +1,22 @@
 const characterReplacement = (s, k) => {
-    const n = s.length;
-    let maxCount = 0, l = 0;
-    let charCount = {};
-  
-    for (let r = 0; r < n; r++) {
-      charCount[s[r]] = (charCount[s[r ]] || 0) + 1;
-      maxCount = Math.max(maxCount, charCount[s[r]]);
-  
-      if (r - l + 1 - maxCount > k) {
-        charCount[s[l]]--;
-        l++;
+  const charCount = new Array(26).fill(0);
+  let maxLength = 0;
+  let maxCount = 0;
+  let start = 0;
+
+  for (let end = 0; end < s.length; end++) {
+      const charIndex = s.charCodeAt(end) - 'A'.charCodeAt(0);
+      charCount[charIndex]++;
+
+      maxCount = Math.max(maxCount, charCount[charIndex]);
+
+      // If we can't replace all characters to the most frequent move start of window forwards
+      if (end - start + 1 - maxCount > k) {
+          charCount[s.charCodeAt(start) - 'A'.charCodeAt(0)]--;
+          start++;
       }
-    }
-  
-    return n - l;
-  };
+
+      maxLength = Math.max(maxLength, end - start + 1);
+  }
+  return maxLength;
+};
