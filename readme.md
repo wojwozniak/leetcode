@@ -46,6 +46,7 @@ Repository containing my solutions to Leetcode problems. ~ 3/4 of solutions use 
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)|[Solution (C)](./Solutions/104-maximum-depth-of-binary-tree.c)|Easy|`Binary tree`|
 |121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)|[Solution (Javascript)](./Solutions/121-best-time-to-buy-and-sell-stock.js)|Easy|`Sliding window`|
 |128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)|[Solution (Javascript)](./Solutions/128-longest-consecutive-sequence.js)|Hard|`Array` `Hash Table`|
+|138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Solution (C)](./Solutions/138-copy-list-with-random-pointer.c)|Medium|`Linked List` `Hash Table`|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Solution (C)](./Solutions/141-linked-list-cycle.c)|Easy|`Linked List` `Two pointers`|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/)|[Solution (C)](./Solutions/143-reorder-list.c)|Medium|`Linked List`|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Solution (Javascript)](./Solutions/150-evaluate-reverse-polish-notation.js)|Medium|`Stack`|
