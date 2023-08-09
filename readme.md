@@ -51,6 +51,7 @@ Repository containing my solutions to Leetcode problems. ~ 3/4 of solutions use 
 |138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)|[Solution (C)](./Solutions/138-copy-list-with-random-pointer.c)|Medium|`Linked List` `Hash Table`|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)|[Solution (C)](./Solutions/141-linked-list-cycle.c)|Easy|`Linked List` `Two pointers`|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/)|[Solution (C)](./Solutions/143-reorder-list.c)|Medium|`Linked List`|
+|146|[LRU Cache](https://leetcode.com/problems/lru-cache/)|[Solution (Javascript)](./Solutions/146-lru-cache.js)|Medium| `Hash Table`|
 |150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/)|[Solution (Javascript)](./Solutions/150-evaluate-reverse-polish-notation.js)|Medium|`Stack`|
 |153|[Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)|[Solution (Javascript)](./Solutions/153-find-minimum-in-rotated-sorted-array.js)|Medium|`Binary search`|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Solution (Javascript)](./Solutions/155-min-stack.js)|Medium|`Stack`|
