@@ -39,6 +39,7 @@ Repository containing my solutions to Leetcode problems. ~ 3/4 of solutions use 
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/)|[Solution (Javascript)](./Solutions/69-sqrtx.js)|Easy||
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)|[Solution (Javascript)](./Solutions/70-climbing-stairs.js)|Easy|`Dynamic Programming`|
 |74|[Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)|[Solution (Javascript)](./Solutions/74-search-a-2d-matrix.js)|Medium|`Binary search`|
+|76|[Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)|[Solution (Javascript)](./Solutions/76-minimum-window-substring.js)|Hard|`Hash Table` `Sliding Window`|
 |79|[Word Search](https://leetcode.com/problems/word-search/)|[Solution (Javascript)](./Solutions/79-word-search.js)|Medium|`DFS` `Backtracking`|
 |84|[Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/)|[Solution (Javascript)](./Solutions/84-largest-rectangle-in-histogram.js)|Hard|`Stack`|
 |98|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)|[Solution (C)](./Solutions/98-validate-binary-search-tree.c)|Medium|`Binary tree`|
