@@ -26,6 +26,7 @@ Repository containing my solutions to Leetcode problems. ~ 3/4 of solutions use 
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)|[Solution (C)](./Solutions/21-merge-two-sorted-lists.c)|Easy|`Linked List`|
 |22|[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)|[Solution (Javascript)](./Solutions/22-generate-parentheses.js)|Medium|`Backtracking` `Stack`|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)|[Solution (Javascript)](./Solutions/23-merge-k-sorted-lists.js)|Hard|`Linked List` `Mergesort`|
+|25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|[Solution (Javascript)](./Solutions/25-reverse-nodes-in-k-group.js)|Hard|`Linked List`|
 |26|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)|[Solution (Javascript)](./Solutions/26-remove-duplicates-from-sorted-array.js)|Easy||
 |27|[Remove Element](https://leetcode.com/problems/remove-element/)|[Solution (Javascript)](./Solutions/27-remove-element.js)|Easy||
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Solution (Javascript)](./Solutions/28-implement-strstr.js)|Easy||
