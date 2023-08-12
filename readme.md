@@ -71,6 +71,7 @@ Repository containing my solutions to Leetcode problems. ~ 3/4 of solutions use 
 |424|[Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)|[Solution (Javascript)](./Solutions/424-longest-repeating-character-replacement.js)|Medium|`Sliding window`|
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Solution (Javascript)](./Solutions/461-hamming-distance.js)|Easy|`Binary operators`|
 |485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)|[Solution (Javascript)](./Solutions/485-max-consecutive-ones.js)|Easy|`Array`|
+|543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Solution (C)](./Solutions/543-diameter-of-binary-tree.c)|Easy|`Binary tree`|
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/)|[Solution (Javascript)](./Solutions/567-permutation-in-string.js)|Medium|`Sliding window`|
 |704|[Binary search](https://leetcode.com/problems/binary-search/)|[Solution (Javascript)](./Solutions/704-binary-search.js)|Easy|`Binary search`|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Solution (Javascript)](./Solutions/739-daily-temperatures.js)|Medium|`Stack`|
