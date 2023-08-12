@@ -62,6 +62,7 @@ Repository containing my solutions to Leetcode problems. ~ 3/4 of solutions use 
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Solution (C)](./Solutions/206-reverse-linked-list.c)|Easy|`Linked list`|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Solution (Javascript)](./Solutions/217-contains-duplicate.js)|Easy|`Hash Table`|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Solution (C)](./Solutions/226-invert-binary-tree.c)|Easy|`Binary tree`|
+|235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Solution (C)](./Solutions/235-lowest-common-ancestor-of-a-binary-search-tree.c)|Easy|`Binary tree`|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/)|[Solution (Javascript)](./Solutions/238-product-except-self.js)|Medium|`Array`|
 |239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)|[Solution (Javascript)](./Solutions/239-sliding-window-maximum.js)|Hard|`Array` `Sliding Window` `Monotonic Queue`|
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Solution (Javascript)](./Solutions/242-valid-anagram.js)|Easy|`Hash Table`|
