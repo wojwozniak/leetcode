@@ -84,6 +84,7 @@ Repository containing my solutions to Leetcode problems. I'm using this reposito
 |703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Solution (Python)](./Solutions/703-kth-largest-element-in-a-stream.py)|Easy|`Heap`|
 |704|[Binary search](https://leetcode.com/problems/binary-search/)|[Solution (Javascript)](./Solutions/704-binary-search.js)|Easy|`Binary search`|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Solution (Javascript)](./Solutions/739-daily-temperatures.js)|Medium|`Stack`|
+|746|[Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/)|[Solution (Javascript)](./Solutions/746-min-cost-climbing-stairs.js)|Easy|`Dynamic Programming`|
 |853|[Car Fleet](https://leetcode.com/problems/car-fleet/)|[Solution (Javascript)](./Solutions/853-car-fleet.js)|Medium|`Stack`|
 |875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[Solution (Javascript)](./Solutions/875-koko-eating-bananas.js)|Medium|`Binary search`|
 |981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[Solution (Javascript)](./Solutions/981-time-based-key-value-store.js)|Medium|`Hash Table` `Binary search`|
