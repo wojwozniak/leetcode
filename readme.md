@@ -81,6 +81,7 @@ Repository containing my solutions to Leetcode problems. I'm using this reposito
 |543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)|[Solution (C)](./Solutions/543-diameter-of-binary-tree.c)|Easy|`Binary tree`|
 |567|[Permutation in String](https://leetcode.com/problems/permutation-in-string/)|[Solution (Javascript)](./Solutions/567-permutation-in-string.js)|Medium|`Sliding window`|
 |572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)|[Solution (C)](./Solutions/572-subtree-of-another-tree.c)|Easy|`Binary tree`|
+|703|[Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)|[Solution (Python)](./Solutions/703-kth-largest-element-in-a-stream.py)|Easy|`Heap`|
 |704|[Binary search](https://leetcode.com/problems/binary-search/)|[Solution (Javascript)](./Solutions/704-binary-search.js)|Easy|`Binary search`|
 |739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/)|[Solution (Javascript)](./Solutions/739-daily-temperatures.js)|Medium|`Stack`|
 |853|[Car Fleet](https://leetcode.com/problems/car-fleet/)|[Solution (Javascript)](./Solutions/853-car-fleet.js)|Medium|`Stack`|
