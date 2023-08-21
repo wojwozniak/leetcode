@@ -1,6 +1,6 @@
 # Leetcode Solutions
 
-Repository containing my solutions to Leetcode problems. ~ 3/4 of solutions use JS, 1/4 use C
+Repository containing my solutions to Leetcode problems. I'm using this repository to keep track of my progress and to learn new algorithms and data structures. Languages used: C, Javascript, Python.
 
 ## Problem List (only solved problems)
 
@@ -86,3 +86,4 @@ Repository containing my solutions to Leetcode problems. ~ 3/4 of solutions use 
 |853|[Car Fleet](https://leetcode.com/problems/car-fleet/)|[Solution (Javascript)](./Solutions/853-car-fleet.js)|Medium|`Stack`|
 |875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|[Solution (Javascript)](./Solutions/875-koko-eating-bananas.js)|Medium|`Binary search`|
 |981|[Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)|[Solution (Javascript)](./Solutions/981-time-based-key-value-store.js)|Medium|`Hash Table` `Binary search`|
+|1046|[Last Stone Weight](https://leetcode.com/problems/last-stone-weight/)|[Solution (Python)](./Solutions/1046-last-stone-weight.py)|Easy|`Heap`|
