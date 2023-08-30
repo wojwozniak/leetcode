@@ -65,6 +65,7 @@ Repository containing my solutions to Leetcode problems. I'm using this reposito
 |199|[Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|[Solution (Javascript)](./Solutions/199-binary-tree-right-side-view.js)|Medium|`Binary tree`|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)|[Solution (C)](./Solutions/203-remove-linked-list-elements.c)|Easy|`Linked list`|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|[Solution (C)](./Solutions/206-reverse-linked-list.c)|Easy|`Linked list`|
+|213|[House Robber II](https://leetcode.com/problems/house-robber-ii/)|[Solution (Javascript)](./Solutions/213-house-robber-ii.js)|Medium|`Dynamic Programming`|
 |217|[Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)|[Solution (Javascript)](./Solutions/217-contains-duplicate.js)|Easy|`Hash Table`|
 |226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)|[Solution (C)](./Solutions/226-invert-binary-tree.c)|Easy|`Binary tree`|
 |235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)|[Solution (C)](./Solutions/235-lowest-common-ancestor-of-a-binary-search-tree.c)|Easy|`Binary tree`|
