@@ -1,7 +1,10 @@
 # Rust Leetcode Solutions
 
-In this repository I store my leetcode solutions, done (or redone) in Rust. I am starting with neetcode roadmap, then I will move on to other problems.
+This repository contains my solutions to Leetcode problems, implemented in Rust. I'm following the NeetCode roadmap as a starting point, and plan to expand to other problem sets over time.
 
+Each solution includes a brief explanation - idea and time complexity analysis. This project helps me deepen my understanding of Rust while sharpening my algorithm and data structure skills.
+
+## Solution list
 
 | Nr  | Problem                                           | Tags              | Language | Date Solved | Leetcode link                                                 | Done |
 | --- | ------------------------------------------------- | ----------------- | -------- | ----------- | ------------------------------------------------------------- | ---- |
