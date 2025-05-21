@@ -8,10 +8,13 @@ You can return the answer in any order.
 
 ## Ideas
 - $O(n^2)$ solution is obvious - just two loops and scanning every option
-- If it was sorted then $O(n)$ would be easy using two pointers, without it it's $O(n log n)$ because we would have to sort it first
+- If it was sorted then $O(n)$ would be easy using two pointers, but it's $O(n log n)$ because we would have to sort it first
 - $O(n)$ solution is doable with $O(n)$ memory - we can create a hashmap storing (value -> index) - then with single loop we can check every combination and give correct output.
 
 ## Solution
+
+Let's notice that we only need a single loop - it will check all options anyways
+and checking if we aren't using same number twice won't be necessary.
 
 
 ```rust
@@ -21,7 +24,6 @@ impl Solution {
     pub fn two_sum(nums: Vec<i32>, target: i32) -> Vec<i32> {
         let mut num_map = HashMap::new();
 
-        // Only one loop is needed - we will check every combination anyways
         for (i, &num) in nums.iter().enumerate() {
             let complement = target - num;
             if let Some(&j) = num_map.get(&complement) {
