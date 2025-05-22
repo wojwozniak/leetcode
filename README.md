@@ -13,6 +13,6 @@ Each solution includes a brief explanation - idea and time complexity analysis. 
 | 217 | [Contains Duplicate](./217-contains-duplicate.md)                     | Hashmap / Hashset        | Rust     | 2025-05-21  | [LeetCode](https://leetcode.com/problems/contains-duplicate/)           | ✅    |
 | 238 | [Product of Array Except Self](./238-product-of-array-except-self.md) | Prefix / Postfix Product | Rust     | 2025-05-22  | [LeetCode](https://leetcode.com/problems/product-of-array-except-self/) | ✅    |
 | 242 | [Valid Anagram](./242-valid-anagram.md)                               | Hashmap / Hashset        | Rust     | 2025-05-21  | [LeetCode](https://leetcode.com/problems/valid-anagram/)                | ✅    |
-| 271 | [Encode and Decode Strings](./271-encode-and-decode-strings.md)       | Hashmap / Hashset        | Rust     | 2025-05-22  | [LeetCode](https://leetcode.com/problems/encode-and-decode-strings/)    | ✅    |
+| 271 | [Encode and Decode Strings](./271-encode-and-decode-strings.md)       | Encoding/Decoding        | Rust     | 2025-05-22  | [LeetCode](https://leetcode.com/problems/encode-and-decode-strings/)    | ✅    |
 | 347 | [Top k Frequent Elements](./347-top-k-frequent-elements.md)           | Hashmap / Hashset        | Rust     | 2025-05-21  | [LeetCode](https://leetcode.com/problems/top-k-frequent-elements/)      | ✅    |
 
