@@ -9,6 +9,7 @@ Each solution includes a brief explanation - idea and time complexity analysis. 
 | Nr  | Problem                                                               | Tags                     | Language | Date Solved | Leetcode link                                                           | Done |
 | --- | --------------------------------------------------------------------- | ------------------------ | -------- | ----------- | ----------------------------------------------------------------------- | ---- |
 | 1   | [Two Sum](./1-two-sum.md)                                             | Hashmap                  | Rust     | 2025-05-21  | [LeetCode](https://leetcode.com/problems/two-sum/)                      | ✅    |
+| 36  | [Valid Sudoku](./36-valid-sudoku.md)                                  | Hashmap                  | Rust     | 2025-05-22  | [LeetCode](https://leetcode.com/problems/valid-sudoku/)                 | ✅    |
 | 49  | [Group Anagrams](./49-group-anagrams.md)                              | Hashmap                  | Rust     | 2025-05-21  | [LeetCode](https://leetcode.com/problems/group-anagrams/)               | ✅    |
 | 217 | [Contains Duplicate](./217-contains-duplicate.md)                     | Hashset                  | Rust     | 2025-05-21  | [LeetCode](https://leetcode.com/problems/contains-duplicate/)           | ✅    |
 | 238 | [Product of Array Except Self](./238-product-of-array-except-self.md) | Prefix / Postfix Product | Rust     | 2025-05-22  | [LeetCode](https://leetcode.com/problems/product-of-array-except-self/) | ✅    |
