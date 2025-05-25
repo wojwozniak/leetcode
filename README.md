@@ -13,6 +13,7 @@ Each solution includes a brief explanation - idea and time complexity analysis. 
 | 36  | [Valid Sudoku](./036-valid-sudoku.md)                                 | Hashset                  | Rust     | 2025-05-22  | [LeetCode](https://leetcode.com/problems/valid-sudoku/)                 | ✅    |
 | 49  | [Group Anagrams](./049-group-anagrams.md)                             | Hashmap                  | Rust     | 2025-05-21  | [LeetCode](https://leetcode.com/problems/group-anagrams/)               | ✅    |
 | 128 | [Longest Consecutive Sequence](./128-longest-consecutive-sequence.md) | Hashset                  | Rust     | 2025-05-22  | [LeetCode](https://leetcode.com/problems/longest-consecutive-sequence/) | ✅    |
+| 155 | [Min Stack](./155-min-stack.md)                                       | Stack                    | Rust     | 2025-05-25  | [LeetCode](https://leetcode.com/problems/min-stack/)                    | ✅    |
 | 217 | [Contains Duplicate](./217-contains-duplicate.md)                     | Hashset                  | Rust     | 2025-05-21  | [LeetCode](https://leetcode.com/problems/contains-duplicate/)           | ✅    |
 | 238 | [Product of Array Except Self](./238-product-of-array-except-self.md) | Prefix / Postfix Product | Rust     | 2025-05-22  | [LeetCode](https://leetcode.com/problems/product-of-array-except-self/) | ✅    |
 | 242 | [Valid Anagram](./242-valid-anagram.md)                               | Hashmap                  | Rust     | 2025-05-21  | [LeetCode](https://leetcode.com/problems/valid-anagram/)                | ✅    |
