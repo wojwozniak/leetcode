@@ -22,4 +22,4 @@ Each solution includes a brief explanation - idea and time complexity analysis. 
 | 271 | [Encode and Decode Strings](./271-encode-and-decode-strings.md)               | Encoding / Decoding      | Rust     | 2025-05-22  | [LeetCode](https://leetcode.com/problems/encode-and-decode-strings/)        | ✅    |
 | 347 | [Top k Frequent Elements](./347-top-k-frequent-elements.md)                   | Hashmap                  | Rust     | 2025-05-21  | [LeetCode](https://leetcode.com/problems/top-k-frequent-elements/)          | ✅    |
 | 739 | [Daily Temperatures](./739-daily-temperatures.md)                             | Stack                    | Rust     | 2025-06-21  | [LeetCode](https://leetcode.com/problems/daily-temperatures/)               | ✅    |
-
+| 853 | [Car Fleet](./853-car-fleet.md)                                               | Stack                    | Rust     | 2025-06-21  | [LeetCode](https://leetcode.com/problems/car-fleet/)                        | ✅    |
