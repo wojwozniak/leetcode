@@ -21,4 +21,5 @@ Each solution includes a brief explanation - idea and time complexity analysis. 
 | 242 | [Valid Anagram](./242-valid-anagram.md)                                       | Hashmap                  | Rust     | 2025-05-21  | [LeetCode](https://leetcode.com/problems/valid-anagram/)                    | ✅    |
 | 271 | [Encode and Decode Strings](./271-encode-and-decode-strings.md)               | Encoding / Decoding      | Rust     | 2025-05-22  | [LeetCode](https://leetcode.com/problems/encode-and-decode-strings/)        | ✅    |
 | 347 | [Top k Frequent Elements](./347-top-k-frequent-elements.md)                   | Hashmap                  | Rust     | 2025-05-21  | [LeetCode](https://leetcode.com/problems/top-k-frequent-elements/)          | ✅    |
+| 739 | [Daily Temperatures](./739-daily-temperatures.md)                             | Stack                    | Rust     | 2025-06-21  | [LeetCode](https://leetcode.com/problems/daily-temperatures/)               | ✅    |
 
