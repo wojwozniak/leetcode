@@ -4,6 +4,8 @@ This repository contains my solutions to Leetcode problems, implemented in Rust.
 
 Each solution includes a brief explanation - idea and time complexity analysis. This project helps me deepen my understanding of Rust while sharpening my algorithm and data structure skills.
 
+Some problems will be solved in C (a couple does not have Rust option on website (and it feels better to work with linked lists in C))
+
 ## Solution list
 
 | Nr  | Problem                                                                                                   | Tags                     | Language | Date Solved | Leetcode link                                                                             | Done |
@@ -12,6 +14,7 @@ Each solution includes a brief explanation - idea and time complexity analysis. 
 | 3   | [Longest Substring Without Repeating Characters](./003-longest-substring-without-repeating-characters.md) | Sliding Window           | Rust     | 2025-06-22  | [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ✅    |
 | 11  | [Container With Most Water](./011-container-with-most-water.md)                                           | Two Pointers             | Rust     | 2025-06-22  | [LeetCode](https://leetcode.com/problems/container-with-most-water/)                      | ✅    |
 | 15  | [3Sum](./015-3sum.md)                                                                                     | Two Pointers             | Rust     | 2025-06-22  | [LeetCode](https://leetcode.com/problems/3sum/)                                           | ✅    |
+| 19  | [Remove Nth Node From End of List](./019-remove-nth-node-from-end-of-list.md)                             | Linked List              | C        | 2025-06-26  | [LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)               | ✅    |
 | 20  | [Valid Parentheses](./020-valid-parentheses.md)                                                           | Stack                    | Rust     | 2025-05-25  | [LeetCode](https://leetcode.com/problems/valid-parentheses/)                              | ✅    |
 | 21  | [Merge Two Sorted Lists](./021-merge-two-sorted-lists.md)                                                 | Linked List              | Rust     | 2025-06-22  | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/)                         | ✅    |
 | 22  | [Generate Parentheses](./022-generate-parentheses.md)                                                     | Backtracking             | Rust     | 2025-05-25  | [LeetCode](https://leetcode.com/problems/generate-parentheses/)                           | ✅    |
