@@ -1,4 +1,4 @@
-# Rust Leetcode Solutions
+# Leetcode Solutions
 
 This repository contains my solutions to Leetcode problems, implemented in Rust. I'm following the NeetCode roadmap as a starting point, and plan to expand to other problem sets over time.
 
